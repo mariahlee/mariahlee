@@ -3,7 +3,6 @@
 🎓 Graduated from Arizona State with a BS in Biological Sciences (Genetics, Cell and Developmental Biology)<br/>
 🧬 Research interests: genomics, transcriptomics, functional annotation, modeling<br/>
 🤖 Learning how to utilize AI to predict functions of noncoding regions, especially noncoding RNAs<br/>
-👩‍🏫 Applying to PhD programs in Computational Biology and Bioinformatics for Fall 2025!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=mariahlee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
