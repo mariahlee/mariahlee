@@ -1,7 +1,6 @@
 # 👋  Hello, I’m @mariahlee!
-🏫 Currently studying Computational Life Sciences at Arizona State University<br/>
 🎓 Graduated from Arizona State with a BS in Biological Sciences (Genetics, Cell and Developmental Biology)<br/>
-🧬 Research interests: genomics, transcriptomics, functional annotation, modeling<br/>
+🧬 Research interests: genomics, transcriptomics, functional annotation, noncoding RNA<br/>
 🤖 Learning how to utilize AI to predict functions of noncoding regions, especially noncoding RNAs<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
